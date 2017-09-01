@@ -1,0 +1,11 @@
+#no .a files
+*.a
+
+#no .o files
+*.o
+
+#no .exe files
+*.exe
+
+#no .zip files
+*.zip
